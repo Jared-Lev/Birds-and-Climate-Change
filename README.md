@@ -1,5 +1,3 @@
-# Birds-and-Climate-Change
-
 # Resident bird species are more responsive to a changing climate
 Data used:USGS Breeding Bird Survey; NOAA weather data; AVONET avian morhpological data
 
