@@ -29,7 +29,7 @@ mean latitude, but their ranges are actually expanding northwards.
 ![image](https://user-images.githubusercontent.com/89553765/211460334-87b071ad-6c07-4b56-b5f3-36bfbb4eaed0.png)
 
 
-A striking trend, and the most pronounced, was that the pace of the northward shifts tracks with migratory behavior. Species which reside in the US/Canada all year have shifted their ranges northwards at a much faster pace than short-distance migrants, who in turn have shifted their their ranges
+A striking trend, and the most pronounced, was that the pace of the northward shifts tracks with migratory behavior. Species which reside in the US/Canada all year have shifted their ranges northwards at a much faster pace than short-distance migrants, who in turn have shifted their ranges
 northwards more quickly than long-distance migrants.
 
 ![image](https://user-images.githubusercontent.com/89553765/211112373-4e3a8f08-cbee-413e-a786-d4d55e3430c5.png)
