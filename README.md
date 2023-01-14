@@ -35,6 +35,6 @@ northwards more quickly than have long-distance migrants.
 ![image](https://user-images.githubusercontent.com/89553765/211112373-4e3a8f08-cbee-413e-a786-d4d55e3430c5.png)
 
 This trend remained statistically significant even after controlling for preferred habitat, and two measures of dispersal ability (hand-wing index
-and range size). Coefficients are standardized to allow direct comparison.
+and range size) in a multiple linear regression model. Coefficients are standardized to allow direct comparison.
 
 ![image](https://user-images.githubusercontent.com/89553765/211449214-272f12b3-e22a-48d8-a236-4fd2b5dd451d.png))
