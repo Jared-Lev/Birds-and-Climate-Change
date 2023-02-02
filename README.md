@@ -26,6 +26,7 @@ Visualizing all observations for the years 1987 and 2019 reveals that some speci
 
 Plotting the northern 97.5th percentile latitude of observations against time reveals that not only are some species experiencing a shift in
 mean latitude, but their ranges are actually expanding northwards.
+
 ![image](https://user-images.githubusercontent.com/89553765/211460334-87b071ad-6c07-4b56-b5f3-36bfbb4eaed0.png)
 
 
