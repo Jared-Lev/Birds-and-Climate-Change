@@ -6,9 +6,13 @@ Technology used: Analysis: Pandas, statsmodels (Python), Google BigQuery.
                  Web-scraping: Beautiful Soup.    
 
 A predicted consequence of rising global temperatures is that species in the northern hemisphere will shift their ranges to more northerly 
-latitudes. By combining millions of bird observations from the USGS Breeding Bird Survey spanning the years 1966-2019, and temperature 
-records from the NOAA, I tested this prediction on North American breeding bird species. 
+latitudes. By combining millions of bird observations from the United States Geological Survey's Breeding Bird Survey (1966-2019), and temperature records from the National Oceanic and Atmospheric Administration, I tested this prediction on North American breeding bird species. 
 
+The bird observations broadly spanned the US and Canada, but but with sparse coverage of the Mountain West US, and northern Canada, particulary in the early years of the survey. 
+
+![image](https://user-images.githubusercontent.com/89553765/217647337-bd720ca7-d0a9-40f3-92d6-ca968f9cc288.png)
+
+Therefore, species were selected for analysis whose ranges lay within either the eastern US or the west coast, and extended minimally into southern Canada.
 
 Roughly half of the songbird species examined experienced a northward shift in their mean ranges. On average, this shift began in the mid-1990s,
 and continued through 2019. Data are mean latitudes weighted by the number of birds observed at each site, with 95 percent confidence intervals.
