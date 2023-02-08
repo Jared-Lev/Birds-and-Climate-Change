@@ -12,7 +12,7 @@ The bird observations broadly spanned the US and Canada, but with sparse coverag
 
 ![image](https://user-images.githubusercontent.com/89553765/217647337-bd720ca7-d0a9-40f3-92d6-ca968f9cc288.png)
 
-Therefore, species were selected for analysis whose ranges lay within either the eastern US or the west coast, and extended minimally into southern Canada.
+Therefore, species were selected for analysis whose ranges lay within either the eastern US or the west coast, and extended minimally into southern Canada. Also, waterbirds and nocturnal species were excluded from the analysis because routes were traversed during the day and on land. 
 
 Roughly half of the songbird species examined experienced a northward shift in their mean ranges. On average, this shift began in the mid-1990s,
 and continued through 2019. Data are mean latitudes weighted by the number of birds observed at each site, with 95 percent confidence intervals.
