@@ -1,4 +1,4 @@
-# Resident bird species are more responsive to a warming climate
+# Resident bird species are more responsive to a warming climate than migrant species
 Data used: USGS Breeding Bird Survey,  NOAA weather data,  AVONET avian morhpological data
 
 Technology used: Analysis: Pandas, statsmodels (Python), Google BigQuery.  
